@@ -64,8 +64,8 @@ Conmigo obtendrás una desarrolladora con gran capacidad para resolver problemas
 <details> 
   <summary>💻 Estadisticas Github</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Estadisticas de Diana" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dianaibarra98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Lenguajes que utiliza Diana" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaibarra98&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/dianaibarra98/github-readme-stats"><img alt="Estadisticas de Diana" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dianaibarra98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/dianaibarra98/github-readme-stats"><img alt="Lenguajes que utiliza Diana" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaibarra98&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Nota:</b> La estadistica es solo una medida y no refleja necesariamente todas mis habilidades en los distintos lenguajes.
 </details>

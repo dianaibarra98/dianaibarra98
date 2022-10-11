@@ -17,7 +17,7 @@ Conmigo obtendrás una desarrolladora con gran capacidad para resolver problemas
 ## 🔥 Estadisticas
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<p>
   <a>
     <img title="🔥 Estadisticas de Diana" alt="Estadisticas de Diana" src="https://github-readme-streak-stats.herokuapp.com/?user=dianaibarra98&theme=monokai-metallian&hide_border=true"/>
   </a>
